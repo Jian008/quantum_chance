@@ -16,7 +16,7 @@ sentence = "quels que soient les progres des connaissances humaines, il y aura t
 
 letters = ''.join(string.ascii_lowercase)
 print(" ")
-print("Predicting with a random engine based on quantum processes:")
+print("Guessing with a random engine based on quantum processes:")
 print('"%s"' %(sentence))
 print(" ")
 print('(whatever the progress of human knowledge, there will always be room for ignorance, hence for chance and probability)')
@@ -51,10 +51,10 @@ while new_word is not sentence:
 		sys.stdout.flush()
 	print(" ")
 	new_word = ''.join(rand_word)
-	print("randomly predicted sentence:")
+	print("randomly guessed sentence:")
 	print(new_word)
 	print(" ")
 	pred = "%.2f%%" %(success_count/144 * 100)
-	print("success of random prediction: %s" %(pred))
+	print("success of random guessing: %s" %(pred))
 	if new_word is sentence:
-		print("'%s' took %i attempts to be randomly generated" %(sentence, counter))
+		print("'%s' took %i attempts to be randomly guessed" %(sentence, counter))
