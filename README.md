@@ -12,4 +12,5 @@ Prediction probability for the whole sentence (144 characters):
 1:18870668547844457769972080826950345531368943638112857227264
 
 " > " indicates a letter guessed right
+
 " * " indicates a letter guessed wrong
