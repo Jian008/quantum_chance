@@ -8,9 +8,11 @@ Predicting a quote of the french mathematician Emile Borel with a real random en
 (whatever the progress of human knowledge, there will always be room for ignorance, hence for chance and probability)
 Emile Borel (1914). Le hasard. Librairie Felix Alcan. p. 12-13
 
-Prediction probability for the whole sentence (144 characters): 
-1:18870668547844457769972080826950345531368943638112857227264
 
 " > " indicates a character guessed wrong
 
 " * " indicates a character guessed right
+
+
+Prediction probability for the whole sentence (144 characters): 
+1:18870668547844457769972080826950345531368943638112857227264
