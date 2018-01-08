@@ -1,6 +1,6 @@
 # quantum_chance
 
-Predicting with a random engine based on quantum processes:
+Predicting a quote of the french mathematician Emile Borel with a random engine based on quantum processes:
 
 > "quels que soient les progres des connaissances humaines, 
 > il y aura toujours place pour l'ignorance et par suite pour le hasard et la probabilite"
