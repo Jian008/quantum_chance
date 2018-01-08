@@ -14,5 +14,5 @@ Emile Borel (1914). Le hasard. Librairie Felix Alcan. p. 12-13
 " * " indicates a character guessed right
 
 
-Prediction probability for the whole sentence (144 characters): 
+Probability to guess the whole sentence (144 characters): 
 1:18870668547844457769972080826950345531368943638112857227264
