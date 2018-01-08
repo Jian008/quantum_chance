@@ -8,7 +8,8 @@ Predicting a quote of the french mathematician Emile Borel with a random engine 
 (whatever the progress of human knowledge, there will always be room for ignorance, hence for chance and probability)
 Emile Borel (1914). Le hasard. Librairie Felix Alcan. p. 12-13
 
-Prediction probability for the whole sentence: 
+Prediction probability for the whole sentence (144 characters): 
 1:18870668547844457769972080826950345531368943638112857227264
 
--> it might take a while
+" > " indicates a letter guessed right
+" * " indicates a letter guessed wrong
