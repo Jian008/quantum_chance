@@ -2,6 +2,8 @@ import sys
 import string
 import quantumrandom
 
+# using the ANU Quantum Random Numbers Server: https://qrng.anu.edu.au/
+
 
 i=0
 rand_word = []
